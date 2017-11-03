@@ -40,6 +40,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create Continuous Integration Build:** In this step, you will create a build definition that will be triggered every time a commit is pushed to your repository in Visual Studio Team Services.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T085859Z" creationid="liminany" creationdate="20171103T085859Z">
+        <seg>创建持续集成构建:** 在这个步骤, 你将定义一个生成，这个生成会在代码每次提交到TFS(VSTS)之后触发.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOL - Parts Unlimited WebSite Continuous Integration with Visual Studio Team Services
 ====================================================================================
 In this lab we have an application called PartsUnlimited.</seg>
@@ -64,6 +72,14 @@ In this lab we have an application called PartsUnlimited.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083032Z" creationid="liminany" creationdate="20171103T083032Z">
         <seg>NOte: 上面的帮助文档里面的图片可能已经过期，需要更新，但不影响阅读.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test the CI Trigger in Visual Studio Team Services:** In this step, test the Continuous Integration build (CI) build we created by changing code in the Parts Unlimited project with Visual Studio Team Services.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T085955Z" creationid="liminany" creationdate="20171103T085955Z">
+        <seg>验证CI 触发:** In this step, test the Continuous Integration build (CI) build we created by changing code in the Parts Unlimited project with Visual Studio Team Services.</seg>
       </tuv>
     </tu>
     <tu>
