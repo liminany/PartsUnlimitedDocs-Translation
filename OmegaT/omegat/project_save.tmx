@@ -80,6 +80,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, at the bottom of the web page, you will see the two commands that we will use to push the existing code to VSTS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T093457Z" creationid="liminany" creationdate="20171103T093457Z">
+        <seg>另外, 在页面的底部, 你可以看到有两个命令，通过这些命令我们可以把刚才克隆的代码推送到TFS/VSTS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After a few seconds of downloading, all of the code should now be on your local machine.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092135Z" creationid="liminany" creationdate="20171103T092135Z">
