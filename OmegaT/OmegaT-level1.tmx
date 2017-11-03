@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>HOL - Parts Unlimited WebSite Continuous Integration with Visual Studio Team Services
+====================================================================================
+In this lab we have an application called PartsUnlimited.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T071747Z" creationid="liminany" creationdate="20171103T071747Z">
+        <seg>动手实验 - 通过使用TFS(VSTS) ，为 Parts Unlimited WebSite 项目 添加持续集成 
+====================================================================================
+In this lab we have an application called PartsUnlimited.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
