@@ -44,10 +44,26 @@ In this lab we have an application called PartsUnlimited.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Import Source Code into your VSTS Account:** In this step, you will connect your own Visual Studio Team Services account, download the PartsUnlimited source code, and then push it to your own Visual Studio Team Services account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T084900Z" creationid="liminany" creationdate="20171103T084900Z">
+        <seg>用你的TFS(VSTS)帐号导入源码:** 在这个步骤,你将使用自己的帐号连接到TFS(VSTS)， 下载项目 PartsUnlimited 的郑代码，通过练习后，可以推送代码到你TFS(VSTS)代码仓库.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOte: the screenshots are out of date and need to be udpated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083032Z" creationid="liminany" creationdate="20171103T083032Z">
         <seg>NOte: 上面的帮助文档里面的图片可能已经过期，需要更新，但不影响阅读.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are two approaches to doing this: a) Use the Git command line, or b) Use Visual Studio.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T085049Z" creationid="liminany" creationdate="20171103T085049Z">
+        <seg>有两种方式来完成: a) 使用Git 命令行工具,  b) 或者使用宇届第一强IDE： Visual Studio 2017.</seg>
       </tuv>
     </tu>
     <tu>
