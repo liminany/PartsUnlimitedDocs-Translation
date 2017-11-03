@@ -16,6 +16,16 @@ In this lab we have an application called PartsUnlimited.</seg>
 在这次实验中，我们采用的项目叫作：PartsUnlimited.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We want to set up
+Visual Studio Team Services to be able continuously integrate code into the master
+branch of code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T081604Z" creationid="liminany" creationdate="20171103T081448Z">
+        <seg>我们通过配置TFS(VSTS) ，可以为主分支代码增加 持续集成 的能力.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
