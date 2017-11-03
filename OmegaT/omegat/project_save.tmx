@@ -40,6 +40,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt; **Talking Point:** For this lab we are using the VSTS Git project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T090736Z" creationid="liminany" creationdate="20171103T090736Z">
+        <seg>&gt; **注意:** 这次练习我们采用Git的方式来管理源码.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&gt; Note: VSTS does support GitHub source code integration for use with VSTS builds, but is outside of the scope of this HOL</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T085356Z" creationid="liminany" creationdate="20171103T085356Z">
@@ -116,6 +124,15 @@ pushed to Visual Studio Team Services.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T082359Z" creationid="liminany" creationdate="20171103T082359Z">
         <seg>为此, 我们需要配置 我们的构建来完成持续集成  (CI)，使我们的代码一旦提交到TFS(VSTS)，可以自动触发编异、单元测试等动作作.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We want to push the application code to your Visual Studio Team Services account in
+order to use VSTS Build.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T090608Z" creationid="liminany" creationdate="20171103T090608Z">
+        <seg>为了能够使用TFS(VSTS)的持续集成功能，我们先要把代码导入到自己的代码仓库中.</seg>
       </tuv>
     </tu>
     <tu>
