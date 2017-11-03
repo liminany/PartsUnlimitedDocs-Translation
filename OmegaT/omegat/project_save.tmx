@@ -40,6 +40,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**2.** Remove the link to GitHub.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092327Z" creationid="liminany" creationdate="20171103T092327Z">
+        <seg>**2.** 移动对 GitHub 的链接.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-   An active Visual Studio Team Services account.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083330Z" creationid="liminany" creationdate="20171103T082521Z">
@@ -64,6 +72,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After a few seconds of downloading, all of the code should now be on your local machine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092135Z" creationid="liminany" creationdate="20171103T092135Z">
+        <seg>过几分钟，代码应该会被下载到你本地电脑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clone the repository with the following command.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091712Z" creationid="liminany" creationdate="20171103T091712Z">
@@ -84,6 +100,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091457Z" creationid="liminany" creationdate="20171103T091457Z">
         <seg>在你的本地系统磁盘中创建一个父目录：**Working Directory**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feel free to use whatever directory name you like, or leave it blank to use the default directory name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092044Z" creationid="liminany" creationdate="20171103T092044Z">
+        <seg>当然你也可以克隆到任意目录中，也可以留空，克隆到根目录:</seg>
       </tuv>
     </tu>
     <tu>
@@ -124,10 +148,26 @@ In this lab we have an application called PartsUnlimited.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a Windows OS (and assuming you used HOL as the directory name), you can use this command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092248Z" creationid="liminany" creationdate="20171103T092248Z">
+        <seg>在Windows系统中 (并且确保你使用的是目录名为HOL), 你可以使用下面的命令:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the example below, the clone will be copied into a directory named HOL.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091911Z" creationid="liminany" creationdate="20171103T091911Z">
         <seg>在下面的示例中, 此次克隆的仓库代码会得到到 HOL目录中.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Move into the directory that was just created.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092201Z" creationid="liminany" creationdate="20171103T092201Z">
+        <seg>进行刚刚创建的目录.</seg>
       </tuv>
     </tu>
     <tu>
