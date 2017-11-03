@@ -48,6 +48,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**3.** Find the URL to access the VSTS Git repo</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092906Z" creationid="liminany" creationdate="20171103T092906Z">
+        <seg>**3.** 找到TFS/VSTS Git 仓库的访问URL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-   An active Visual Studio Team Services account.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083330Z" creationid="liminany" creationdate="20171103T082521Z">
@@ -188,6 +196,14 @@ In this lab we have an application called PartsUnlimited.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since we won't be using it any longer, we can delete the reference.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092708Z" creationid="liminany" creationdate="20171103T092708Z">
+        <seg>我们不在使用Github来提交我们的代码，因此我们可以删除这个引用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Test the CI Trigger in Visual Studio Team Services:** In this step, test the Continuous Integration build (CI) build we created by changing code in the Parts Unlimited project with Visual Studio Team Services.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T090158Z" creationid="liminany" creationdate="20171103T085955Z">
@@ -226,6 +242,14 @@ get fast feedback.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T081827Z" creationid="liminany" creationdate="20171103T081827Z">
         <seg>也就是说，在我们的代码提交和推送给主分支后，我想确保代码被正确集成，并可以快速获得反馈.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To delete the GitHub remote, use:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092728Z" creationid="liminany" creationdate="20171103T092728Z">
+        <seg>要移除这个引用，我们可以使用以下命令：</seg>
       </tuv>
     </tu>
     <tu>
