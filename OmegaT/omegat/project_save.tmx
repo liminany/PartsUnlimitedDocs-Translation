@@ -64,10 +64,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Clone the repository with the following command.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091712Z" creationid="liminany" creationdate="20171103T091712Z">
+        <seg>使用上面的命令克隆仓库.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create Continuous Integration Build:** In this step, you will create a build definition that will be triggered every time a commit is pushed to your repository in Visual Studio Team Services.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T085859Z" creationid="liminany" creationdate="20171103T085859Z">
         <seg>创建持续集成构建:** 在这个步骤, 你将定义一个生成，这个生成会在代码每次提交到TFS(VSTS)之后触发.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create a parent **Working Directory** on your local file system.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091457Z" creationid="liminany" creationdate="20171103T091457Z">
+        <seg>在你的本地系统磁盘中创建一个父目录：**Working Directory**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, on a Windows OS you can create the following directory:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091529Z" creationid="liminany" creationdate="20171103T091529Z">
+        <seg>比如，在Windows系统中你可以创建这样一个目录:</seg>
       </tuv>
     </tu>
     <tu>
@@ -104,6 +128,14 @@ In this lab we have an application called PartsUnlimited.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083032Z" creationid="liminany" creationdate="20171103T083032Z">
         <seg>NOte: 上面的帮助文档里面的图片可能已经过期，需要更新，但不影响阅读.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open a command line (one that supports Git) and change to the directory you created above.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091631Z" creationid="liminany" creationdate="20171103T091631Z">
+        <seg>打开Git命令行，并且更改目录为上面创建的.</seg>
       </tuv>
     </tu>
     <tu>
