@@ -23,19 +23,19 @@ Datadog may be preferable due to a slight difference in it's target user base (a
 ### Task 1: Create a custom wrapper to log metrics to DataDog
 **Step 1.** Clone the repository to a local directory.
 
-Create a parent **Working Directory** on your local file system. For instance, on a Windows OS you can create the following directory:
+在你的本地系统磁盘中创建一个父目录：**Working Directory**. 比如，在Windows系统中你可以创建这样一个目录:
 
 `C:\Source\Repos`
 
-Open a command line (one that supports Git) and change to the directory you created above.
+打开Git命令行，并且更改目录为上面创建的.
 
-Clone the repository with the following command. You can paste in the URL if you copied it in Step 1.  In the example below, the clone will be copied into a directory named HOL. Feel free to use whatever directory name you like, or leave it blank to use the default directory name:
+使用上面的命令克隆仓库. 你可以把步骤 1 复制的URL 粘贴过来.  在下面的示例中, 此次克隆的仓库代码会得到到 HOL目录中. 当然你也可以克隆到任意目录中，也可以留空，克隆到根目录:
 
 	git clone https://github.com/Microsoft/PartsUnlimited.git HOL
 
-After a few seconds of downloading, all of the code should now be on your local machine.
+过几分钟，代码应该会被下载到你本地电脑
 
-Move into the directory that was just created.  In a Windows OS (and assuming you used HOL as the directory name), you can use this command:
+进入刚刚创建的目录.  在Windows系统中 (并且确保你使用的是目录名为HOL), 你可以使用下面的命令:
 
 	cd HOL
 

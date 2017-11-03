@@ -1,79 +1,72 @@
 动手实验 - 通过使用TFS(VSTS) ，为 Parts Unlimited WebSite 项目 添加持续集成 
 ====================================================================================
-In this lab we have an application called PartsUnlimited. We want to set up
-Visual Studio Team Services to be able continuously integrate code into the master
-branch of code. This means that whenever code is committed and pushed to the
-master branch, we want to ensure that it integrates into our code correctly to
-get fast feedback. To do so, we are going to be setting up a Continuous Integration build (CI) that
-will allow us to compile and run unit tests on our code every time a commit is
-pushed to Visual Studio Team Services.
+在这次实验中，我们采用的项目叫作：PartsUnlimited. 我们通过配置TFS(VSTS) ，可以为主分支代码增加 持续集成 的能力. 也就是说，在我们的代码提交和推送给主分支后，我想确保代码被正确集成，并可以快速获得反馈. 为此, 我们需要配置 我们的构建来完成持续集成  (CI)，使我们的代码一旦提交到TFS(VSTS)，可以自动触发编异、单元测试等动作作.
 
-### Pre-requisites: ###
-- Complete [Getting Started](../GettingStarted.md) task.
--   An active Visual Studio Team Services account.
+### 准备工作（TFS/VSTS）: ###
+- 完成练习： [Getting Started](../GettingStarted.md) .
+-  一个可用的 TFS(VSTS) 帐号.
 
-	 [Sign up for Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services)
+	   [如何 注册和设置 TFS](#)            [如何 注册和设置 Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services) 
 
-NOte: the screenshots are out of date and need to be udpated. they are left as is for not to provide some guidance if it is needed.
+NOte: 上面的帮助文档里面的图片可能已经过期，需要更新，但不影响阅读. they are left as is for not to provide some guidance if it is needed.
 
-### Tasks Overview: ###
+### 练习任务概述: ###
 
-**1. Import Source Code into your VSTS Account:** In this step, you will connect your own Visual Studio Team Services account, download the PartsUnlimited source code, and then push it to your own Visual Studio Team Services account. There are two approaches to doing this: a) Use the Git command line, or b) Use Visual Studio.  
+**1. 用你的TFS(VSTS)帐号导入源码:** 在这个步骤,你将使用自己的帐号连接到TFS(VSTS)， 下载项目 PartsUnlimited 的郑代码，通过练习后，可以推送代码到你TFS(VSTS)代码仓库. 有两种方式来完成: a) 使用Git 命令行工具,  b) 或者使用宇届第一强IDE： Visual Studio 2017.  
 
-> Note: VSTS does support GitHub source code integration for use with VSTS builds, but is outside of the scope of this HOL
+> Note: 题外话：TFS/VSTS 目前还不支持通过 VS IDE来创建构建，一般我们通过TFS/VSTS Web门户来实现  
 
-**2. Create Continuous Integration Build:** In this step, you will create a build definition that will be triggered every time a commit is pushed to your repository in Visual Studio Team Services.
+**2. 创建持续集成构建:** 在这个步骤, 你将定义一个生成，这个生成会在代码每次提交到TFS(VSTS)之后触发.
 
-**3. Test the CI Trigger in Visual Studio Team Services:** In this step, test the Continuous Integration build (CI) build we created by changing code in the Parts Unlimited project with Visual Studio Team Services.
+**3. 验证CI 的触发:** 在这个步骤, 我们通过修改 Parts Unlimited 项目的代码，并提交到TFS(VSTS)以触发我们定义好的构建.
 
-### I: Import Source Code into your VSTS Account with Git
+### I: 使用Git从TFS/VSTS中导入代码
 
-We want to push the application code to your Visual Studio Team Services account in
-order to use VSTS Build.
+为了能够使用TFS(VSTS)的持续集成功能，我们先要把代码导入到自己的代码仓库中.
 
-> **Talking Point:** For this lab we are using the VSTS Git project. The next couple of steps will allow you to add the PartUnlimited source to the Git master repository.
+> **注意:** 这次练习我们采用Git的方式来管理源码. 在接下来的一系列步骤中，我们使用添加PartUnlimited 源码到Git主仓库.
 
-If you haven't already, create a new team project in your Visual Studio Team Services account that uses Git for source control.
+如果你还没有这份代码，首先要在TFS(VSTS)中创建一个团队项目I，并且源码管理选择Git.
 
 ![](<media/empty-vsts-git.png>)
 
-**1.** Clone the repository to a local directory.
+**1.** 克隆仓库代码到本地目录.
 
-Create a parent **Working Directory** on your local file system. For instance, on a Windows OS you can create the following directory:
+在你的本地系统磁盘中创建一个父目录：**Working Directory**. 比如，在Windows系统中你可以创建这样一个目录:
 
 `C:\Source\Repos`
 
-Open a command line (one that supports Git) and change to the directory you created above.
+打开Git命令行，并且更改目录为上面创建的.
 
-Clone the repository with the following command. You can paste in the URL if you copied it in Step 1.  In the example below, the clone will be copied into a directory named HOL. Feel free to use whatever directory name you like, or leave it blank to use the default directory name:
+使用上面的命令克隆仓库. 你可以把步骤 1 复制的URL 粘贴过来.  在下面的示例中, 此次克隆的仓库代码会得到到 HOL目录中. 当然你也可以克隆到任意目录中，也可以留空，克隆到根目录:
 
 	git clone https://github.com/Microsoft/PartsUnlimited.git HOL
 
-After a few seconds of downloading, all of the code should now be on your local machine.
+过几分钟，代码应该会被下载到你本地电脑
 
-Move into the directory that was just created.  In a Windows OS (and assuming you used HOL as the directory name), you can use this command:
+进入刚刚创建的目录.  在Windows系统中 (并且确保你使用的是目录名为HOL), 你可以使用下面的命令:
 
 	cd HOL
 
-**2.** Remove the link to GitHub.
+**2.** 移除对 GitHub 的链接.
 
-The Git repo you just downloaded currently has a remote called _origin_ that points to the GitHub repo.  Since we won't be using it any longer, we can delete the reference.
+刚刚下载的 Git仓库 会通过一个叫 _orgin_ 的配置项指向Github仓库.  我们不在使用Github来提交我们的代码，因此我们可以删除这个引用
 
-To delete the GitHub remote, use:
+要移除这个引用，我们可以使用以下命令：
 
 	git remote remove origin
 
-**3.** Find the URL to access the VSTS Git repo
+**3.** 找到TFS/VSTS Git 仓库的访问URL
 
-First, we need to find the URL to empty Git repository in VSTS.  If you remember your account name, and the Team Project name you created, the URL to the default Git repo is easily assembled:
+首先，我们需要找到这个URL来清空我们的TFS/VSTS Git 仓库如果你记得自己的帐号, 并且团队项目已创建，这个默认的Git地址很容易得出:
 
 	https://<account>.visualstudio.com\_git\<project>
 
-Alternatively, you can use a web browser to browse to your account, click into your project, and click the Code tab to get to your default Git repository:
+当然, 你也可以通过浏览器打开你的帐号，进入你的项目，然后在点击 代码 标签页 来获取默认的Git仓库地址:
 
 	https://<account>.visualstudio.com
 
-Additionally, at the bottom of the web page, you will see the two commands that we will use to push the existing code to VSTS.
+另外, 在页面的底部, 你可以看到有两个命令，通过这些命令我们可以把刚才克隆的代码推送到TFS/VSTS.
 
 ![](<media/findVstsRepoUrl.png>)
 

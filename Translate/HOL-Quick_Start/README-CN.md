@@ -35,7 +35,7 @@ The screenshots are out of date in these steps, but are left as they still be of
 
 ## Tasks
 ### Task 1: Import Source Code into your VSTS Account with Git ###
-In order to use VSTS Build, your VSTS must contain source code for the application. For this lab we are using the VSTS Git project. The next couple of steps will allow you to add the PartUnlimited source to the Git master repository.
+In order to use VSTS Build, your VSTS must contain source code for the application. For this lab we are using the VSTS Git project. 在接下来的一系列步骤中，我们使用添加PartUnlimited 源码到Git主仓库.
 
 **Step 1.** If you haven't already, create a new team project in your Visual Studio Team Services account that uses Git for source control. Click on "New", enter project name, select "git" for "Version control" and click on "Create project" button.
 
@@ -56,7 +56,7 @@ In order to use VSTS Build, your VSTS must contain source code for the applicati
 
 **Step 3.** Remove the link to GitHub.
 
-* The Git repo you just downloaded currently has a remote called _origin_ that points to the GitHub repo.  Since we won't be using it any longer, we can delete the reference. To delete the GitHub remote, use:
+* The Git repo you just downloaded currently has a remote called _origin_ that points to the GitHub repo.  我们不在使用Github来提交我们的代码，因此我们可以删除这个引用要移除这个引用，我们可以使用以下命令：
 
 		git remote remove origin
 
