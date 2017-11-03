@@ -16,6 +16,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Tasks Overview: ###</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T084527Z" creationid="liminany" creationdate="20171103T084527Z">
+        <seg>### 练习任务概述: ###</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-   An active Visual Studio Team Services account.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083330Z" creationid="liminany" creationdate="20171103T082521Z">
@@ -78,6 +86,13 @@ branch of code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T084225Z" creationid="liminany" creationdate="20171103T082623Z">
         <seg>  [如何 注册和设置 TFS](#)            [如何 注册和设置 Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>they are left as is for not to provide some guidance if it is needed
+</note>
+      <tuv lang="EN-US">
+        <seg>they are left as is for not to provide some guidance if it is needed.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
