@@ -88,6 +88,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, you can use a web browser to browse to your account, click into your project, and click the Code tab to get to your default Git repository:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T093319Z" creationid="liminany" creationdate="20171103T093257Z">
+        <seg>当然, 你也可以通过浏览器打开你的帐号，进入你的项目，然后在点击 代码 标签页 来获取默认的Git仓库地址:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clone the repository with the following command.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091712Z" creationid="liminany" creationdate="20171103T091712Z">
@@ -120,6 +128,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>First, we need to find the URL to empty Git repository in VSTS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T093023Z" creationid="liminany" creationdate="20171103T093023Z">
+        <seg>首先，我们需要找到这个URL来清空我们的TFS/VSTS Git 仓库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For instance, on a Windows OS you can create the following directory:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091529Z" creationid="liminany" creationdate="20171103T091529Z">
@@ -144,6 +160,14 @@ In this lab we have an application called PartsUnlimited.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091242Z" creationid="liminany" creationdate="20171103T091242Z">
         <seg>如果你还没有这份代码，首先要在TFS(VSTS)中创建一个团队项目I，并且源码管理选择Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you remember your account name, and the Team Project name you created, the URL to the default Git repo is easily assembled:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T093131Z" creationid="liminany" creationdate="20171103T093131Z">
+        <seg>如果你记得自己的帐号, 并且团队项目已创建，这个默认的Git地址很容易得出:</seg>
       </tuv>
     </tu>
     <tu>
