@@ -32,6 +32,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt; Note: VSTS does support GitHub source code integration for use with VSTS builds, but is outside of the scope of this HOL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T085356Z" creationid="liminany" creationdate="20171103T085356Z">
+        <seg>&gt; Note: 题外话：TFS/VSTS 目前还不支持通过 VS IDE来创建构建，一般我们通过TFS/VSTS Web门户来实现  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOL - Parts Unlimited WebSite Continuous Integration with Visual Studio Team Services
 ====================================================================================
 In this lab we have an application called PartsUnlimited.</seg>
