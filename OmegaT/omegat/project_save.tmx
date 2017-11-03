@@ -32,6 +32,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**1.** Clone the repository to a local directory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091319Z" creationid="liminany" creationdate="20171103T091319Z">
+        <seg>**1.** 克隆仓库代码到本地目录.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-   An active Visual Studio Team Services account.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083330Z" creationid="liminany" creationdate="20171103T082521Z">
@@ -72,6 +80,14 @@ In this lab we have an application called PartsUnlimited.</seg>
         <seg>动手实验 - 通过使用TFS(VSTS) ，为 Parts Unlimited WebSite 项目 添加持续集成 
 ====================================================================================
 在这次实验中，我们采用的项目叫作：PartsUnlimited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you haven't already, create a new team project in your Visual Studio Team Services account that uses Git for source control.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091242Z" creationid="liminany" creationdate="20171103T091242Z">
+        <seg>如果你还没有这份代码，首先要在TFS(VSTS)中创建一个团队项目I，并且源码管理选择Git.</seg>
       </tuv>
     </tu>
     <tu>
