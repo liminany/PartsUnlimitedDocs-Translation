@@ -1,3 +1,4 @@
 HOL	动手实验
 Continuous Integration	持续集成
 Visual Studio Team Services	TFS(VSTS)
+In this step	在这个步骤
