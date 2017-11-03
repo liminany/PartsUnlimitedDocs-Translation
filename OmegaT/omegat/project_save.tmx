@@ -18,8 +18,8 @@
       <tuv lang="EN-US">
         <seg>-   An active Visual Studio Team Services account.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T082521Z" creationid="liminany" creationdate="20171103T082521Z">
-        <seg>-  一个可用的 Visual Studio Team Services 帐号.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083330Z" creationid="liminany" creationdate="20171103T082521Z">
+        <seg>-  一个可用的 TFS(VSTS) 帐号.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76,8 +76,8 @@ branch of code.</seg>
       <tuv lang="EN-US">
         <seg>[Sign up for Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T082907Z" creationid="liminany" creationdate="20171103T082623Z">
-        <seg>[如何 注册和设置 Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services)</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083536Z" creationid="liminany" creationdate="20171103T082623Z">
+        <seg></seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
