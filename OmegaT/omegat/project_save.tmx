@@ -124,6 +124,14 @@ In this lab we have an application called PartsUnlimited.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the example below, the clone will be copied into a directory named HOL.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091911Z" creationid="liminany" creationdate="20171103T091911Z">
+        <seg>在下面的示例中, 此次克隆的仓库代码会得到到 HOL目录中.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOte: the screenshots are out of date and need to be udpated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083032Z" creationid="liminany" creationdate="20171103T083032Z">
@@ -199,6 +207,14 @@ branch of code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T081604Z" creationid="liminany" creationdate="20171103T081448Z">
         <seg>我们通过配置TFS(VSTS) ，可以为主分支代码增加 持续集成 的能力.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can paste in the URL if you copied it in Step 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091747Z" creationid="liminany" creationdate="20171103T091747Z">
+        <seg>你可以把步骤 1 复制的URL 粘贴过来.</seg>
       </tuv>
     </tu>
     <tu>
