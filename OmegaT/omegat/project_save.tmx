@@ -18,6 +18,16 @@ In this lab we have an application called PartsUnlimited.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This means that whenever code is committed and pushed to the
+master branch, we want to ensure that it integrates into our code correctly to
+get fast feedback.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T081827Z" creationid="liminany" creationdate="20171103T081827Z">
+        <seg>也就是说，在我们的代码提交和推送给主分支后，我想确保代码被正确集成，并可以快速获得反馈.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We want to set up
 Visual Studio Team Services to be able continuously integrate code into the master
 branch of code.</seg>
