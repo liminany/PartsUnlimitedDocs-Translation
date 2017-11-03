@@ -100,6 +100,14 @@ In this lab we have an application called PartsUnlimited.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The next couple of steps will allow you to add the PartUnlimited source to the Git master repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091000Z" creationid="liminany" creationdate="20171103T091000Z">
+        <seg>在接下来的一系列步骤中，我们使用添加PartUnlimited 源码到Git主仓库.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are two approaches to doing this: a) Use the Git command line, or b) Use Visual Studio.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T085049Z" creationid="liminany" creationdate="20171103T085049Z">
