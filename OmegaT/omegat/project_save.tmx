@@ -42,8 +42,8 @@
       <tuv lang="EN-US">
         <seg>**2.** Remove the link to GitHub.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092327Z" creationid="liminany" creationdate="20171103T092327Z">
-        <seg>**2.** 移动对 GitHub 的链接.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092624Z" creationid="liminany" creationdate="20171103T092327Z">
+        <seg>**2.** 移除对 GitHub 的链接.</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,8 +166,8 @@ In this lab we have an application called PartsUnlimited.</seg>
       <tuv lang="EN-US">
         <seg>Move into the directory that was just created.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092201Z" creationid="liminany" creationdate="20171103T092201Z">
-        <seg>进行刚刚创建的目录.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092424Z" creationid="liminany" creationdate="20171103T092201Z">
+        <seg>进入刚刚创建的目录.</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,6 +192,14 @@ In this lab we have an application called PartsUnlimited.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T090158Z" creationid="liminany" creationdate="20171103T085955Z">
         <seg>验证CI 的触发:** 在这个步骤, 我们通过修改 Parts Unlimited 项目的代码，并提交到TFS(VSTS)以触发我们定义好的构建.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Git repo you just downloaded currently has a remote called _origin_ that points to the GitHub repo.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092619Z" creationid="liminany" creationdate="20171103T092411Z">
+        <seg>刚刚下载的 Git仓库 会通过一个叫 _orgin_ 的配置项指向Github仓库.</seg>
       </tuv>
     </tu>
     <tu>
