@@ -6,6 +6,24 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>### Pre-requisites: ###
+- Complete [Getting Started](../GettingStarted.md) task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T082501Z" creationid="liminany" creationdate="20171103T082501Z">
+        <seg>### 准备工作（VSTS）: ###
+- 完成练习： [Getting Started](../GettingStarted.md) .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>-   An active Visual Studio Team Services account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T082521Z" creationid="liminany" creationdate="20171103T082521Z">
+        <seg>-  一个可用的 Visual Studio Team Services 帐号.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>HOL - Parts Unlimited WebSite Continuous Integration with Visual Studio Team Services
 ====================================================================================
 In this lab we have an application called PartsUnlimited.</seg>
@@ -24,6 +42,16 @@ get fast feedback.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T081827Z" creationid="liminany" creationdate="20171103T081827Z">
         <seg>也就是说，在我们的代码提交和推送给主分支后，我想确保代码被正确集成，并可以快速获得反馈.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do so, we are going to be setting up a Continuous Integration build (CI) that
+will allow us to compile and run unit tests on our code every time a commit is
+pushed to Visual Studio Team Services.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T082359Z" creationid="liminany" creationdate="20171103T082359Z">
+        <seg>为此, 我们需要配置 我们的构建来完成持续集成  (CI)，使我们的代码一旦提交到TFS(VSTS)，可以自动触发编异、单元测试等动作作.</seg>
       </tuv>
     </tu>
     <tu>
