@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>### I: Import Source Code into your VSTS Account with Git</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T090415Z" creationid="liminany" creationdate="20171103T090415Z">
+        <seg>### I: 使用Git从TFS/VSTS中导入代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Pre-requisites: ###
 - Complete [Getting Started](../GettingStarted.md) task.</seg>
       </tuv>
@@ -78,8 +86,8 @@ In this lab we have an application called PartsUnlimited.</seg>
       <tuv lang="EN-US">
         <seg>Test the CI Trigger in Visual Studio Team Services:** In this step, test the Continuous Integration build (CI) build we created by changing code in the Parts Unlimited project with Visual Studio Team Services.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T085955Z" creationid="liminany" creationdate="20171103T085955Z">
-        <seg>验证CI 触发:** In this step, test the Continuous Integration build (CI) build we created by changing code in the Parts Unlimited project with Visual Studio Team Services.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T090158Z" creationid="liminany" creationdate="20171103T085955Z">
+        <seg>验证CI 的触发:** 在这个步骤, 我们通过修改 Parts Unlimited 项目的代码，并提交到TFS(VSTS)以触发我们定义好的构建.</seg>
       </tuv>
     </tu>
     <tu>
