@@ -3,3 +3,4 @@ Continuous Integration	持续集成
 Visual Studio Team Services	TFS/VSTS
 VSTS	TFS/VSTS
 In this step	在这个步骤
+Select	选择
