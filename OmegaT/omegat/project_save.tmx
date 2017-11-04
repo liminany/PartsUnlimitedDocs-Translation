@@ -88,6 +88,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**13.** On the **Copy Publish Artifact** task, change the **Copy Root** property to **$(build.stagingDirectory)**, The **Contents** property to **\*\*\\\*.zip**, The **Artifact Name** property to **drop** and the **Artifact Type** to **Server**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T074811Z" creationid="liminany" creationdate="20171104T074811Z">
+        <seg>## 13. 在 **Copy Publish Artifact** 任务中, 修改属性 **Copy Root** 为 **$(build.stagingDirectory)**, 修改 **Contents** 为 **\*\*\\\*.zip**, 修改 **Artifact Name** 为 **drop** ，设置 **Artifact Type** 为 **Server**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**2.** Click **Browse** and then select your team project and click
 **Navigate**.</seg>
       </tuv>
