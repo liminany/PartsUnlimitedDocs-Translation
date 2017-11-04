@@ -58,8 +58,8 @@
       <tuv lang="EN-US">
         <seg>**4.** Add the link to VSTS and push your local Git repo</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T064350Z" creationid="liminany" creationdate="20171104T041033Z">
-        <seg>## 4. 把本地代码仓库推送到 TFS/VSTSr</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T064932Z" creationid="liminany" creationdate="20171104T041033Z">
+        <seg>## 4. 推送本地仓库到TFS/VSTS，并建立链接r</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,8 +214,8 @@ In this lab we have an application called PartsUnlimited.</seg>
       <tuv lang="EN-US">
         <seg>In the local directory from Step 1, use the following command to add VSTS as the Git remote named _origin_.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T064653Z" creationid="liminany" creationdate="20171104T064653Z">
-        <seg>进入步骤1创建的本地目录, 使用下面的命令，推送本地  add VSTS as the Git remote named _origin_.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T065034Z" creationid="liminany" creationdate="20171104T064653Z">
+        <seg>进入步骤1创建的本地目录, 使用下面的命令，在远程仓库创建立名为 _origin_的链接.</seg>
       </tuv>
     </tu>
     <tu>
@@ -327,6 +327,14 @@ branch of code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T081604Z" creationid="liminany" creationdate="20171103T081448Z">
         <seg>我们通过配置TFS(VSTS) ，可以为主分支代码增加 持续集成 的能力.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can either type the URL you found in Step 3, or simply copy the first command from the VSTS web page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T065142Z" creationid="liminany" creationdate="20171104T065142Z">
+        <seg>你也可以输入步骤3里面的URL地址, 或者从TFS/VSTS Web页面获取这个URL地址.</seg>
       </tuv>
     </tu>
     <tu>
