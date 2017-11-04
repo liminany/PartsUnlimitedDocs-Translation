@@ -104,6 +104,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**15.** Click on the **Triggers** tab and verify that the **Continuous integration (CI)** option is selected to build the solution every time a change is checked in.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T075400Z" creationid="liminany" creationdate="20171104T075400Z">
+        <seg>## 15. 点击 **Triggers** tab页面，确保 **Continuous integration (CI)** 被选中 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**2.** Click **Browse** and then select your team project and click
 **Navigate**.</seg>
       </tuv>
@@ -299,6 +307,14 @@ have created against it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092135Z" creationid="liminany" creationdate="20171103T092135Z">
         <seg>过几分钟，代码应该会被下载到你本地电脑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also make sure the filter includes the appropriate branch (in this case **master** and **Batch Changes** checkbox is unchecked</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T075609Z" creationid="liminany" creationdate="20171104T075609Z">
+        <seg>同样确保 **master** 和 **Batch Changes** 未被选中 </seg>
       </tuv>
     </tu>
     <tu>
