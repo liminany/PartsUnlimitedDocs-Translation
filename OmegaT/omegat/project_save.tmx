@@ -48,6 +48,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**1.** Go to your **account’s homepage**:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T070113Z" creationid="liminany" creationdate="20171104T070113Z">
+        <seg>## 1. 打开 **我的帐户** 页面:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**2.** Remove the link to GitHub.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063805Z" creationid="liminany" creationdate="20171103T092327Z">
@@ -92,6 +100,16 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063646Z" creationid="liminany" creationdate="20171103T085356Z">
         <seg>Note: 题外话：TFS/VSTS 目前还不支持通过 VS IDE来创建构建，一般我们通过TFS/VSTS Web门户来实现  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A continuous integration build will give us the ability check whether the code
+we checked in can compile and will successfully pass any automated tests that we
+have created against it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T070018Z" creationid="liminany" creationdate="20171104T070018Z">
+        <seg>定义好的生成定义，使我们可以知道迁入的代码是否编异成功、是否通过自动化测试.</seg>
       </tuv>
     </tu>
     <tu>
