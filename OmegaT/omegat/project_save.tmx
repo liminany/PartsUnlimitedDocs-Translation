@@ -333,8 +333,8 @@ branch of code.</seg>
       <tuv lang="EN-US">
         <seg>[Sign up for Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T084225Z" creationid="liminany" creationdate="20171103T082623Z">
-        <seg>  [如何 注册和设置 TFS](#)            [如何 注册和设置 Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services) </seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T062522Z" creationid="liminany" creationdate="20171103T082623Z">
+        <seg>[如何 注册和设置 TFS](#)            [如何 注册和设置 Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services) </seg>
       </tuv>
     </tu>
     <tu>
