@@ -129,6 +129,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt;**Note:** As you can see, you can now do Universal Windows Apps &amp; Xamarin Android/IOS Builds as well as Xcode builds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T071031Z" creationid="liminany" creationdate="20171104T070924Z">
+        <seg>**Note:** 如你所见, 你可以定义UWA通用应用、 Xamarin Android/IOS应用的构建，甚至是Xcode 的构建.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A continuous integration build will give us the ability check whether the code
 we checked in can compile and will successfully pass any automated tests that we
 have created against it.</seg>
