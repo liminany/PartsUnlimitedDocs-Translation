@@ -105,6 +105,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**5.** After clicking the **Next** button:
+- Select **HOL Team Project**;
+- Select **HOL** Repository;
+- Select **Master** as the default branch;
+- Check **Continuous Integration**;
+- Change the **Default Agent Queue** to **Hosted VS2017**;
+- Click **Create**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T071423Z" creationid="liminany" creationdate="20171104T071423Z">
+        <seg>## 5. 然后点击 **下一步** :
+- 选择 **HOL Team Project**;
+- 选择 **HOL** Repository;
+- 选择 **Master** 做为默认分支;
+- 选择 **Continuous Integration**;
+- 把 **Default Agent Queue** 改为 **Hosted VS2017**;
+- 点击 **Create**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-   An active Visual Studio Team Services account.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083330Z" creationid="liminany" creationdate="20171103T082521Z">
