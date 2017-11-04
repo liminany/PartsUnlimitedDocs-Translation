@@ -58,8 +58,8 @@
       <tuv lang="EN-US">
         <seg>**4.** Add the link to VSTS and push your local Git repo</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T041033Z" creationid="liminany" creationdate="20171104T041033Z">
-        <seg>## **4.** Add the link to VSTS and push your local Git repo</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T062148Z" creationid="liminany" creationdate="20171104T041033Z">
+        <seg># **4.** Add the link to VSTS and push your local Git repo</seg>
       </tuv>
     </tu>
     <tu>
@@ -164,9 +164,9 @@
 ====================================================================================
 In this lab we have an application called PartsUnlimited.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T040848Z" creationid="liminany" creationdate="20171103T071747Z">
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T062216Z" creationid="liminany" creationdate="20171103T071747Z">
         <seg># 动手实验 - 通过使用TFS(VSTS) ，为 Parts Unlimited WebSite 项目 添加持续集成 
-====================================================================================
+
 在这次实验中，我们采用的项目叫作：PartsUnlimited.</seg>
       </tuv>
     </tu>
@@ -222,8 +222,8 @@ In this lab we have an application called PartsUnlimited.</seg>
       <tuv lang="EN-US">
         <seg>NOte: the screenshots are out of date and need to be udpated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083032Z" creationid="liminany" creationdate="20171103T083032Z">
-        <seg>NOte: 上面的帮助文档里面的图片可能已经过期，需要更新，但不影响阅读.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T062311Z" creationid="liminany" creationdate="20171103T083032Z">
+        <seg>NOTE: 上面的帮助文档里面的图片可能已经过期，需要更新，但不影响阅读.</seg>
       </tuv>
     </tu>
     <tu>
