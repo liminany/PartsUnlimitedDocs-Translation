@@ -56,6 +56,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**10.** On the **PowerShell Script** task, click on the blue **rename** pencil icon and change the name of the step to **dotnet restore, build, test and publish** and click **OK**</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T072718Z" creationid="liminany" creationdate="20171104T072718Z">
+        <seg>## 10. 在 **PowerShell Script** 任务中, 点击蓝色的 **rename** 铅笔 图标,更改名称为 **dotnet restore, build, test and publish** ，然后点击 **OK**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**2.** Click **Browse** and then select your team project and click
 **Navigate**.</seg>
       </tuv>
@@ -137,6 +145,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T072341Z" creationid="liminany" creationdate="20171104T072341Z">
         <seg>## 7. 在 **Add tasks** 对话框中, 选择 **Utility** 页面，添加一个 **PowerShell** 任务.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**8.** Still in the **Add tasks** dialog, select the **Test** page and add a **Publish Test Results**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T072445Z" creationid="liminany" creationdate="20171104T072445Z">
+        <seg>## 8. 还在 **Add tasks** 对话框中,选择 **Test** 页面，添加一个 **Publish Test Results** 任务.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**9.** Select the **Utility** page again and add a **Copy and Publish Artifacts** task and then click on **Close**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T072553Z" creationid="liminany" creationdate="20171104T072553Z">
+        <seg>## 9. 选择 **Utility** 页面，添加一个**Copy and Publish Artifacts** 任务，最后点击 **Close** 关闭对话框.</seg>
       </tuv>
     </tu>
     <tu>
