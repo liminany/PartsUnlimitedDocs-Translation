@@ -133,6 +133,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt; **Note:** We may have multiple repositories and branches, so we need to select the correct Repo and Branch before we can select which Solution to build.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T071653Z" creationid="liminany" creationdate="20171104T071653Z">
+        <seg>**Note:** 我们通常会有多个仓库，每个仓库的代码都会有多个分支,因此在我们选择构建方案时，需要选择正确的仓库和分支.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&gt; **Talking Point:** For this lab we are using the VSTS Git project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T090736Z" creationid="liminany" creationdate="20171103T090736Z">
