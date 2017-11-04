@@ -81,10 +81,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**3.** Once on the project’s home page, click on the **Build** hub at the top of the page, then on **All Definitions**, and then on **New Definition**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T070634Z" creationid="liminany" creationdate="20171104T070634Z">
+        <seg>## 3. 进入主页面后, 点击页面顶部的 **生成** , 然后进入 **所有定义**, 最后点击 **添加生成定义**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**4.** Add the link to VSTS and push your local Git repo</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T064932Z" creationid="liminany" creationdate="20171104T041033Z">
         <seg>## 4. 推送本地仓库到TFS/VSTS，并建立链接r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**4.** Select the **Empty** build definition, and then click **Next**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T070742Z" creationid="liminany" creationdate="20171104T070742Z">
+        <seg>## 4. 选择 **空定义** 创建生成定义，然后点击 **下一步**.</seg>
       </tuv>
     </tu>
     <tu>
