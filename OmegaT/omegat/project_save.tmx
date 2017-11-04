@@ -212,6 +212,14 @@ In this lab we have an application called PartsUnlimited.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the local directory from Step 1, use the following command to add VSTS as the Git remote named _origin_.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T064653Z" creationid="liminany" creationdate="20171104T064653Z">
+        <seg>进入步骤1创建的本地目录, 使用下面的命令，推送本地  add VSTS as the Git remote named _origin_.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move into the directory that was just created.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092424Z" creationid="liminany" creationdate="20171103T092201Z">
