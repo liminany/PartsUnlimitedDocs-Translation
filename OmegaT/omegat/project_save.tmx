@@ -56,6 +56,15 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**2.** Click **Browse** and then select your team project and click
+**Navigate**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T070348Z" creationid="liminany" creationdate="20171104T070327Z">
+        <seg>## 2.** 点击 **浏览** ,选择团队项目，点击 **导航**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**2.** Remove the link to GitHub.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063805Z" creationid="liminany" creationdate="20171103T092327Z">
