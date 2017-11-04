@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>### I: Import Source Code into your VSTS Account with Git</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T090415Z" creationid="liminany" creationdate="20171103T090415Z">
-        <seg>### I: 使用Git从TFS/VSTS中导入代码</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063746Z" creationid="liminany" creationdate="20171103T090415Z">
+        <seg># I: 使用Git从TFS/VSTS中导入代码</seg>
       </tuv>
     </tu>
     <tu>
@@ -42,16 +42,16 @@
       <tuv lang="EN-US">
         <seg>**2.** Remove the link to GitHub.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T040951Z" creationid="liminany" creationdate="20171103T092327Z">
-        <seg>## **2.** 移除对 GitHub 的链接.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063805Z" creationid="liminany" creationdate="20171103T092327Z">
+        <seg>## 2. 移除对 GitHub 的链接.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>**3.** Find the URL to access the VSTS Git repo</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T040957Z" creationid="liminany" creationdate="20171103T092906Z">
-        <seg>## **3.** 找到TFS/VSTS Git 仓库的访问URL</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063904Z" creationid="liminany" creationdate="20171103T092906Z">
+        <seg>## 3. 找到TFS/VSTS Git 仓库的访问URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,8 +82,8 @@
       <tuv lang="EN-US">
         <seg>&gt; Note: VSTS does support GitHub source code integration for use with VSTS builds, but is outside of the scope of this HOL</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T085356Z" creationid="liminany" creationdate="20171103T085356Z">
-        <seg>&gt; Note: 题外话：TFS/VSTS 目前还不支持通过 VS IDE来创建构建，一般我们通过TFS/VSTS Web门户来实现  </seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063646Z" creationid="liminany" creationdate="20171103T085356Z">
+        <seg>Note: 题外话：TFS/VSTS 目前还不支持通过 VS IDE来创建构建，一般我们通过TFS/VSTS Web门户来实现  </seg>
       </tuv>
     </tu>
     <tu>
