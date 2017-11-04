@@ -58,8 +58,8 @@
       <tuv lang="EN-US">
         <seg>**4.** Add the link to VSTS and push your local Git repo</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T062148Z" creationid="liminany" creationdate="20171104T041033Z">
-        <seg># **4.** Add the link to VSTS and push your local Git repo</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T064350Z" creationid="liminany" creationdate="20171104T041033Z">
+        <seg>## 4. 把本地代码仓库推送到 TFS/VSTSr</seg>
       </tuv>
     </tu>
     <tu>
