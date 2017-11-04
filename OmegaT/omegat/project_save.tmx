@@ -125,6 +125,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**6.** After clicking the **Create** button, On the **Build** tab click the **Add build step** in the Build pane.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T072110Z" creationid="liminany" creationdate="20171104T072110Z">
+        <seg>## 6. 点击 **Create** 按扭, 在 **Build** tab 页，  **Add build step** 会出现在页面中. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-   An active Visual Studio Team Services account.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083330Z" creationid="liminany" creationdate="20171103T082521Z">
