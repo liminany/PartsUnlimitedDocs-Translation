@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### III.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080042Z" creationid="liminany" creationdate="20171104T080042Z">
+        <seg># III. 第三部分 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Pre-requisites: ###
 - Complete [Getting Started](../GettingStarted.md) task.</seg>
       </tuv>
@@ -108,6 +116,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T075400Z" creationid="liminany" creationdate="20171104T075400Z">
         <seg>## 15. 点击 **Triggers** tab页面，确保 **Continuous integration (CI)** 被选中 .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**16.** Click **Save** and give the build definition a name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T075944Z" creationid="liminany" creationdate="20171104T075944Z">
+        <seg>## 16.** 点击 **Save**，并为生成定义设置一个名称.</seg>
       </tuv>
     </tu>
     <tu>
@@ -479,6 +495,14 @@ In this lab we have an application called PartsUnlimited.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092708Z" creationid="liminany" creationdate="20171103T092708Z">
         <seg>我们不在使用Github来提交我们的代码，因此我们可以删除这个引用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Test the CI Trigger in Visual Studio Team Services</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080125Z" creationid="liminany" creationdate="20171104T080125Z">
+        <seg>测试CI 在TFS/VSTS中 被触发</seg>
       </tuv>
     </tu>
     <tu>
