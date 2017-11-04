@@ -64,6 +64,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**1.** Select the **Code** hub and then select your your repo, **HOL**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080147Z" creationid="liminany" creationdate="20171104T080147Z">
+        <seg>## 1.** Select the **Code** hub and then select your your repo, **HOL**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**10.** On the **PowerShell Script** task, click on the blue **rename** pencil icon and change the name of the step to **dotnet restore, build, test and publish** and click **OK**</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T072718Z" creationid="liminany" creationdate="20171104T072718Z">
@@ -128,6 +136,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**2.** After clicking **Edit**, add in text (i.e. *This is a test of CI*) after the last *Using* statement.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080241Z" creationid="liminany" creationdate="20171104T080241Z">
+        <seg>## 2. After clicking **Edit**, add in text (i.e. *This is a test of CI*) after the last *Using* statement.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**2.** Click **Browse** and then select your team project and click
 **Navigate**.</seg>
       </tuv>
@@ -137,10 +153,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**2.** Navigate to **/src/PartsUnlimitedWebsite/Controllers** in the PartsUnlimited project, then click on the ellipsis to the right of **HomeController.cs** and click **Edit**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080226Z" creationid="liminany" creationdate="20171104T080226Z">
+        <seg>## 2. Navigate to **/src/PartsUnlimitedWebsite/Controllers** in the PartsUnlimited project, then click on the ellipsis to the right of **HomeController.cs** and click **Edit**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**2.** Remove the link to GitHub.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063805Z" creationid="liminany" creationdate="20171103T092327Z">
         <seg>## 2. 移除对 GitHub 的链接.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**3.** Click **Build** hub.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080249Z" creationid="liminany" creationdate="20171104T080249Z">
+        <seg>## 3. Click **Build** hub.</seg>
       </tuv>
     </tu>
     <tu>
@@ -165,6 +197,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T064932Z" creationid="liminany" creationdate="20171104T041033Z">
         <seg>## 4. 推送本地仓库到TFS/VSTS，并建立链接r</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**4.** Click on the **Build Number** on the top left and you should get a build summary similar to this, which includes test results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080303Z" creationid="liminany" creationdate="20171104T080303Z">
+        <seg>## 4. Click on the **Build Number** on the top left and you should get a build summary similar to this, which includes test results.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**4.** Click on the **Build Number**, and you should get the build in progress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080256Z" creationid="liminany" creationdate="20171104T080256Z">
+        <seg>## 4. Click on the **Build Number**, and you should get the build in progress.</seg>
       </tuv>
     </tu>
     <tu>
