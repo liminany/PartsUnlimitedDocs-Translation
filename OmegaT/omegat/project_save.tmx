@@ -253,6 +253,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt; **Note:** To enable Continuous integration in your project, check the **Continuous integration (CI)** checkbox.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T075734Z" creationid="liminany" creationdate="20171104T075734Z">
+        <seg> **Note:**  为使持续集成生效，确保勾选 **Continuous integration (CI)** 一项.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&gt; **Note:** We may have multiple repositories and branches, so we need to select the correct Repo and Branch before we can select which Solution to build.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T071653Z" creationid="liminany" creationdate="20171104T071653Z">
@@ -574,6 +582,14 @@ branch of code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091747Z" creationid="liminany" creationdate="20171103T091747Z">
         <seg>你可以把步骤 1 复制的URL 粘贴过来.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can select which branch you wish to monitor, as well.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T075808Z" creationid="liminany" creationdate="20171104T075808Z">
+        <seg>当然你也可以根据项目的需要选择特定的分支代码进行持续集成.</seg>
       </tuv>
     </tu>
     <tu>
