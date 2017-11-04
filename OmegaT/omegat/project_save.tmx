@@ -78,6 +78,16 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**12.** On the **Publish Test Results** task make the following changes:
+- Change the **Test Result Format** to **VSTest**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T074550Z" creationid="liminany" creationdate="20171104T074449Z">
+        <seg>## 12. 在 **Publish Test Results** 任务中确保遵循以下修改:
+- 修改 **Test Result Format**  为 **VSTest**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**2.** Click **Browse** and then select your team project and click
 **Navigate**.</seg>
       </tuv>
@@ -191,6 +201,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T073417Z" creationid="liminany" creationdate="20171104T073417Z">
         <seg>- 点击高级，设置属性 **Working Folder** 值为 **$(System.DefaultWorkingDirectory)**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- On **Search folder** enter the value **$(System.DefaultWorkingDirectory)**</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T074630Z" creationid="liminany" creationdate="20171104T074630Z">
+        <seg>- 修改 **Search folder** 为 **$(System.DefaultWorkingDirectory)**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>- On the **Test Results File** to **\*\*/testresults.xml**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T074610Z" creationid="liminany" creationdate="20171104T074610Z">
+        <seg>- 修改 **Test Results File** 为 **\*\*/testresults.xml**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -429,6 +455,14 @@ In this lab we have an application called PartsUnlimited.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092619Z" creationid="liminany" creationdate="20171103T092411Z">
         <seg>刚刚下载的 Git仓库 会通过一个叫 _orgin_ 的配置项指向Github仓库.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The build script does the following: restore, build, test, publish, and produce an MSDeploy zip package.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T074333Z" creationid="liminany" creationdate="20171104T074333Z">
+        <seg>这些生成脚本执行: restore, build, test, publish, 等动作， 并生成一个  MSDeploy 格式的 zip包.</seg>
       </tuv>
     </tu>
     <tu>
