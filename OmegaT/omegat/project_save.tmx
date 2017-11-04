@@ -8,8 +8,16 @@
       <tuv lang="EN-US">
         <seg>### I: Import Source Code into your VSTS Account with Git</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063746Z" creationid="liminany" creationdate="20171103T090415Z">
-        <seg># I: 使用Git从TFS/VSTS中导入代码</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T065435Z" creationid="liminany" creationdate="20171103T090415Z">
+        <seg># I. 第一部分: 使用Git从TFS/VSTS中导入代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### II.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T065351Z" creationid="liminany" creationdate="20171104T065351Z">
+        <seg># II. 第二部分</seg>
       </tuv>
     </tu>
     <tu>
@@ -116,6 +124,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091712Z" creationid="liminany" creationdate="20171103T091712Z">
         <seg>使用上面的命令克隆仓库.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create Continuous Integration Build</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T065506Z" creationid="liminany" creationdate="20171104T065506Z">
+        <seg>创建构建</seg>
       </tuv>
     </tu>
     <tu>
@@ -351,6 +367,16 @@ branch of code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063046Z" creationid="liminany" creationdate="20171103T082623Z">
         <seg>- 可参考的文档：　[如何 注册和设置 TFS](#)　　　　　[如何 注册和设置 Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>git remote add origin https://&lt;account&gt;.visualstudio.com\&lt;project&gt;\_git\&lt;project&gt;
+Now you can push the code, including history, to VSTS:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T065313Z" creationid="liminany" creationdate="20171104T065313Z">
+        <seg>git remote add origin https://&lt;account&gt;.visualstudio.com\&lt;project&gt;\_git\&lt;project&gt;
+现在你可以推送代码了到TFS/VSTS，包括提交的历史记录:</seg>
       </tuv>
     </tu>
     <tu>
