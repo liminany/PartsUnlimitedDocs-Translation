@@ -133,6 +133,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**7.** In the **Add tasks** dialog, select the **Utility** page and then add a **PowerShell** task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T072341Z" creationid="liminany" creationdate="20171104T072341Z">
+        <seg>## 7. 在 **Add tasks** 对话框中, 选择 **Utility** 页面，添加一个 **PowerShell** 任务.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>-   An active Visual Studio Team Services account.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083330Z" creationid="liminany" creationdate="20171103T082521Z">
