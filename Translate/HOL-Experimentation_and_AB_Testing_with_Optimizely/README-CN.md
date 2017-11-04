@@ -15,7 +15,7 @@ HOL - Experimentation and A/B Testing with Optimizely
 
 
 
-### 练习任务概述: ###
+## 练习任务概述: 
 
 1. Setup first variation in Optimizely
 

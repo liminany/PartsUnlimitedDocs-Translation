@@ -10,7 +10,7 @@ Note: [Launch Darkly](https://launchdarkly.com/) is a great option for more adva
 
 - [.Net Core 1.0.1 SDK](https://www.microsoft.com/net/core#windows) installed
 
-### 练习任务概述: ###
+## 练习任务概述: 
 
 1. Add the back-end code required for feature flags - In this task we will go through the steps required to create advanced feature flags which are region and time based.
 
