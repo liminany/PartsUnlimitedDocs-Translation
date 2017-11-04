@@ -26,16 +26,16 @@
       <tuv lang="EN-US">
         <seg>### Tasks Overview: ###</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T084527Z" creationid="liminany" creationdate="20171103T084527Z">
-        <seg>### 练习任务概述: ###</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063130Z" creationid="liminany" creationdate="20171103T084527Z">
+        <seg>## 练习任务概述: </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>**1.** Clone the repository to a local directory.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T040940Z" creationid="liminany" creationdate="20171103T091319Z">
-        <seg>## **1.** 克隆仓库代码到本地目录.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063238Z" creationid="liminany" creationdate="20171103T091319Z">
+        <seg>## 1. 克隆仓库代码到本地目录.</seg>
       </tuv>
     </tu>
     <tu>
@@ -333,8 +333,8 @@ branch of code.</seg>
       <tuv lang="EN-US">
         <seg>[Sign up for Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T062917Z" creationid="liminany" creationdate="20171103T082623Z">
-        <seg>[如何 注册和设置 TFS](#)　　　　　[如何 注册和设置 Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services) </seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T063046Z" creationid="liminany" creationdate="20171103T082623Z">
+        <seg>- 可参考的文档：　[如何 注册和设置 TFS](#)　　　　　[如何 注册和设置 Visual Studio Team Services](https://www.visualstudio.com/en-us/docs/setup-admin/team-services/sign-up-for-visual-studio-team-services) </seg>
       </tuv>
     </tu>
     <tu>
