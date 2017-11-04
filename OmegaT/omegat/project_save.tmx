@@ -96,6 +96,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**14** Select the **Variables** page and a new variable that will be used by the build.ps1 PowerShell script; **BuildConfiguration** with a value of **release**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T075102Z" creationid="liminany" creationdate="20171104T075102Z">
+        <seg>## 14** 在 **Variables** 页面，这些变量被用于build.ps1 PowerShell 脚本中; 添加新变量 **BuildConfiguration** ，值为 **release**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**2.** Click **Browse** and then select your team project and click
 **Navigate**.</seg>
       </tuv>
