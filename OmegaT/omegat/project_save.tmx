@@ -195,6 +195,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&gt; **Note:** The build.ps1 script contains commands using the **dotnet.exe** executable used by .Net Core.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T074131Z" creationid="liminany" creationdate="20171104T074131Z">
+        <seg> **Note:** PS脚本**build.ps1** 使用 .Net Core 的  **dotnet.exe** 执行命令.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&gt; **Note:** We may have multiple repositories and branches, so we need to select the correct Repo and Branch before we can select which Solution to build.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T071653Z" creationid="liminany" creationdate="20171104T071653Z">
