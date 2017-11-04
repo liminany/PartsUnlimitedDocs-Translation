@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>### I: Import Source Code into your VSTS Account with Git</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T065435Z" creationid="liminany" creationdate="20171103T090415Z">
-        <seg># I. 第一部分: 使用Git从TFS/VSTS中导入代码</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080617Z" creationid="liminany" creationdate="20171103T090415Z">
+        <seg>## I. 第一部分: 使用Git从TFS/VSTS中导入代码</seg>
       </tuv>
     </tu>
     <tu>
