@@ -64,6 +64,20 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**11.** Configure the Task:
+- Select **File Path** for the **Type** property
+- Enter **"build.ps1"** for the **Script filename** property
+- Set **$(BuildConfiguration) $(System.DefaultWorkingDirectory) $(build.stagingDirectory)** for the **Arguments** property.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T073128Z" creationid="liminany" creationdate="20171104T073128Z">
+        <seg>## 11.  配置上面添加的任务:
+- 为属性 **Type** 的值选择 **File Path** 
+- 为属性 **Script filename** 设置值为 **"build.ps1"** 
+- 为属性 **Arguments** 设置值为 **$(BuildConfiguration) $(System.DefaultWorkingDirectory) $(build.stagingDirectory)** .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**2.** Click **Browse** and then select your team project and click
 **Navigate**.</seg>
       </tuv>
