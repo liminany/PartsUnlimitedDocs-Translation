@@ -17,8 +17,8 @@
         <seg>### Pre-requisites: ###
 - Complete [Getting Started](../GettingStarted.md) task.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T083220Z" creationid="liminany" creationdate="20171103T082501Z">
-        <seg>### 准备工作（TFS/VSTS）: ###
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T040932Z" creationid="liminany" creationdate="20171103T082501Z">
+        <seg>## ### 准备工作（TFS/VSTS）: ###
 - 完成练习： [Getting Started](../GettingStarted.md) .</seg>
       </tuv>
     </tu>
@@ -34,24 +34,24 @@
       <tuv lang="EN-US">
         <seg>**1.** Clone the repository to a local directory.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091319Z" creationid="liminany" creationdate="20171103T091319Z">
-        <seg>**1.** 克隆仓库代码到本地目录.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T040940Z" creationid="liminany" creationdate="20171103T091319Z">
+        <seg>## **1.** 克隆仓库代码到本地目录.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>**2.** Remove the link to GitHub.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092624Z" creationid="liminany" creationdate="20171103T092327Z">
-        <seg>**2.** 移除对 GitHub 的链接.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T040951Z" creationid="liminany" creationdate="20171103T092327Z">
+        <seg>## **2.** 移除对 GitHub 的链接.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>**3.** Find the URL to access the VSTS Git repo</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092906Z" creationid="liminany" creationdate="20171103T092906Z">
-        <seg>**3.** 找到TFS/VSTS Git 仓库的访问URL</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T040957Z" creationid="liminany" creationdate="20171103T092906Z">
+        <seg>## **3.** 找到TFS/VSTS Git 仓库的访问URL</seg>
       </tuv>
     </tu>
     <tu>
@@ -156,8 +156,8 @@
 ====================================================================================
 In this lab we have an application called PartsUnlimited.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T080900Z" creationid="liminany" creationdate="20171103T071747Z">
-        <seg>动手实验 - 通过使用TFS(VSTS) ，为 Parts Unlimited WebSite 项目 添加持续集成 
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T040848Z" creationid="liminany" creationdate="20171103T071747Z">
+        <seg># 动手实验 - 通过使用TFS(VSTS) ，为 Parts Unlimited WebSite 项目 添加持续集成 
 ====================================================================================
 在这次实验中，我们采用的项目叫作：PartsUnlimited.</seg>
       </tuv>
