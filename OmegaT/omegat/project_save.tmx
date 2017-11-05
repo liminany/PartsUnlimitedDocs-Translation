@@ -203,8 +203,8 @@
       <tuv lang="EN-US">
         <seg>**4.** Click on the **Build Number** on the top left and you should get a build summary similar to this, which includes test results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080303Z" creationid="liminany" creationdate="20171104T080303Z">
-        <seg>## 4. Click on the **Build Number** on the top left and you should get a build summary similar to this, which includes test results.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T085227Z" creationid="liminany" creationdate="20171104T080303Z">
+        <seg>## 4. 点击左上角的构建编号 **Build Number** ,可以看到构建的汇总信息，当然也包括测试结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -523,6 +523,16 @@ In this lab we have an application called PartsUnlimited.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this lab, you learned how to push new code to Visual Studio Team Services, setup a Git repo and create a Continuous
+Integration build that runs when new commits are pushed to the master branch.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T085327Z" creationid="liminany" creationdate="20171105T085327Z">
+        <seg>在这些练习中，你学习如何推送代码到TFS/VSTS you learned how to push new code to Visual Studio Team Services, setup a Git repo and create a Continuous
+Integration build that runs when new commits are pushed to the master branch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Move into the directory that was just created.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T092424Z" creationid="liminany" creationdate="20171103T092201Z">
@@ -535,6 +545,16 @@ In this lab we have an application called PartsUnlimited.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T062311Z" creationid="liminany" creationdate="20171103T083032Z">
         <seg>NOTE: 上面的帮助文档里面的图片可能已经过期，需要更新，但不影响阅读.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Next steps
+----------</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T085237Z" creationid="liminany" creationdate="20171105T085237Z">
+        <seg>下一步
+----------</seg>
       </tuv>
     </tu>
     <tu>
