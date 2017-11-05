@@ -630,6 +630,16 @@ Integration build that runs when new commits are pushed to the master branch.</s
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This allows you to get feedback as to whether your changes made breaking syntax
+changes, or if they broke one or more automated tests, or if your changes are a
+okay.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T085827Z" creationid="liminany" creationdate="20171105T085827Z">
+        <seg>这样使得我们能迅速获取反馈，了解现有的提交是否正确生成，自动化测试是否通过，是否破坏了原有代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This means that whenever code is committed and pushed to the
 master branch, we want to ensure that it integrates into our code correctly to
 get fast feedback.</seg>
@@ -662,6 +672,14 @@ pushed to Visual Studio Team Services.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T082359Z" creationid="liminany" creationdate="20171103T082359Z">
         <seg>为此, 我们需要配置 我们的构建来完成持续集成  (CI)，使我们的代码一旦提交到TFS(VSTS)，可以自动触发编异、单元测试等动作作.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Try these labs out for next steps:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T085925Z" creationid="liminany" creationdate="20171105T085925Z">
+        <seg>完成持续集成之后，可以试试下一个练习了：</seg>
       </tuv>
     </tu>
     <tu>
