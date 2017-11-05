@@ -138,8 +138,8 @@
       <tuv lang="EN-US">
         <seg>**2.** After clicking **Edit**, add in text (i.e. *This is a test of CI*) after the last *Using* statement.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080241Z" creationid="liminany" creationdate="20171104T080241Z">
-        <seg>## 2. After clicking **Edit**, add in text (i.e. *This is a test of CI*) after the last *Using* statement.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T084440Z" creationid="liminany" creationdate="20171104T080241Z">
+        <seg>## 2. 点击编辑按扭 **Edit** 后, 添加注释代码 (比如 *This is a test of CI*) 在最后一行 *Using* 代码块.</seg>
       </tuv>
     </tu>
     <tu>
@@ -155,8 +155,8 @@
       <tuv lang="EN-US">
         <seg>**2.** Navigate to **/src/PartsUnlimitedWebsite/Controllers** in the PartsUnlimited project, then click on the ellipsis to the right of **HomeController.cs** and click **Edit**.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080226Z" creationid="liminany" creationdate="20171104T080226Z">
-        <seg>## 2. Navigate to **/src/PartsUnlimitedWebsite/Controllers** in the PartsUnlimited project, then click on the ellipsis to the right of **HomeController.cs** and click **Edit**.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T084250Z" creationid="liminany" creationdate="20171104T080226Z">
+        <seg>## 2. 在PartsUnlimited项目中找到源代码文件： **/src/PartsUnlimitedWebsite/Controllers** ，选择文件： **HomeController.cs** 进入编辑状态.</seg>
       </tuv>
     </tu>
     <tu>
