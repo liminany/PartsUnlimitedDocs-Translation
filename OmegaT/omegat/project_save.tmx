@@ -211,8 +211,8 @@
       <tuv lang="EN-US">
         <seg>**4.** Click on the **Build Number**, and you should get the build in progress.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080256Z" creationid="liminany" creationdate="20171104T080256Z">
-        <seg>## 4. Click on the **Build Number**, and you should get the build in progress.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T084821Z" creationid="liminany" creationdate="20171104T080256Z">
+        <seg>## 4. 点击刚触发的构建编号 **Build Number**, 你会发现构建正进行中.</seg>
       </tuv>
     </tu>
     <tu>
@@ -463,6 +463,14 @@ In this lab we have an application called PartsUnlimited.</seg>
         <seg># 动手实验 - 通过使用TFS(VSTS) ，为 Parts Unlimited WebSite 项目 添加持续集成 
 
 在这次实验中，我们采用的项目叫作：PartsUnlimited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here you can also see the commands being logged to console and the current steps that the build is on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T084959Z" creationid="liminany" creationdate="20171105T084959Z">
+        <seg>通过日志页面，可以看到当前执行的命令和当前的构建步骤</seg>
       </tuv>
     </tu>
     <tu>
