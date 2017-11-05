@@ -171,8 +171,8 @@
       <tuv lang="EN-US">
         <seg>**3.** Click **Build** hub.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080249Z" creationid="liminany" creationdate="20171104T080249Z">
-        <seg>## 3. Click **Build** hub.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T084543Z" creationid="liminany" creationdate="20171104T080249Z">
+        <seg>## 3. 点击 **Build** ，进入构建定义页面.</seg>
       </tuv>
     </tu>
     <tu>
@@ -531,6 +531,14 @@ In this lab we have an application called PartsUnlimited.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once complete, click **Save**.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T084503Z" creationid="liminany" creationdate="20171105T084503Z">
+        <seg>完成后，点击保存按扭过： **Save**.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open a command line (one that supports Git) and change to the directory you created above.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T091631Z" creationid="liminany" creationdate="20171103T091631Z">
@@ -601,6 +609,14 @@ get fast feedback.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T081827Z" creationid="liminany" creationdate="20171103T081827Z">
         <seg>也就是说，在我们的代码提交和推送给主分支后，我想确保代码被正确集成，并可以快速获得反馈.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This should have triggered the build we previously created.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T084624Z" creationid="liminany" creationdate="20171105T084624Z">
+        <seg>这将会触发我们前面定义的的构建</seg>
       </tuv>
     </tu>
     <tu>
