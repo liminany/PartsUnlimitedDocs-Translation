@@ -66,8 +66,8 @@
       <tuv lang="EN-US">
         <seg>**1.** Select the **Code** hub and then select your your repo, **HOL**.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080147Z" creationid="liminany" creationdate="20171104T080147Z">
-        <seg>## 1.** Select the **Code** hub and then select your your repo, **HOL**.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T084051Z" creationid="liminany" creationdate="20171104T080147Z">
+        <seg>## 1.选择 **Code**一项，进入前面创建的仓库： **HOL**.</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +638,14 @@ branch of code.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="liminany" changedate="20171103T081604Z" creationid="liminany" creationdate="20171103T081448Z">
         <seg>我们通过配置TFS(VSTS) ，可以为主分支代码增加 持续集成 的能力.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We will now test the **Continuous Integration build (CI)** build we created by changing code in the Parts Unlimited project with Visual Studio Team Services.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T083924Z" creationid="liminany" creationdate="20171105T083924Z">
+        <seg>我们在这部分验证前面创建的构建，当我们修改Parts Unlimited 项目的代码并提交到TFS/VSTS后，会触发TFS/VSTS的持续集成.</seg>
       </tuv>
     </tu>
     <tu>
