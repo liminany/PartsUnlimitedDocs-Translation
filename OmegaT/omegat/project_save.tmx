@@ -549,8 +549,8 @@ In this lab we have an application called PartsUnlimited.</seg>
       <tuv lang="EN-US">
         <seg>Test the CI Trigger in Visual Studio Team Services</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171104T080125Z" creationid="liminany" creationdate="20171104T080125Z">
-        <seg>测试CI 在TFS/VSTS中 被触发</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T083633Z" creationid="liminany" creationdate="20171104T080125Z">
+        <seg>验证CI 在TFS/VSTS中 被触发</seg>
       </tuv>
     </tu>
     <tu>
