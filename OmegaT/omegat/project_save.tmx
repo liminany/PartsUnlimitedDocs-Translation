@@ -526,9 +526,8 @@ In this lab we have an application called PartsUnlimited.</seg>
         <seg>In this lab, you learned how to push new code to Visual Studio Team Services, setup a Git repo and create a Continuous
 Integration build that runs when new commits are pushed to the master branch.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T085327Z" creationid="liminany" creationdate="20171105T085327Z">
-        <seg>在这些练习中，你学习如何推送代码到TFS/VSTS you learned how to push new code to Visual Studio Team Services, setup a Git repo and create a Continuous
-Integration build that runs when new commits are pushed to the master branch.</seg>
+      <tuv lang="ZH-CN" changeid="liminany" changedate="20171105T085532Z" creationid="liminany" creationdate="20171105T085327Z">
+        <seg>在这些练习中，你学习如何推送代码到TFS/VSTS、设置Git 仓库、定义构建、通过提交和推送代码触发持续集成。</seg>
       </tuv>
     </tu>
     <tu>
