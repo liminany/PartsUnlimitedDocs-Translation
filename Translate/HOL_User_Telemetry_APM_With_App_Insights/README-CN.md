@@ -141,7 +141,7 @@ git push
 In this lab, you learned how to set up Application Insights telemetry to gain further insight into how users are behaving towards your web application, and drill down into performance monitoring data through Application Insights in the new Azure Portal.
 
 
-Try these labs out for next steps:
+完成持续集成之后，可以试试下一个练习了：
 
 - [Testing in Production hands-on lab](https://github.com/Microsoft/PartsUnlimited/tree/master/docs/HOL_HDD_Testing_in_Production)
 

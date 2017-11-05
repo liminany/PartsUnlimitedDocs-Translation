@@ -167,12 +167,12 @@ Now that we have published our new changes to the test deployment slot, we want 
 
 ![](<media/step6.png>)
 
-Next steps
+下一步
 ----------
 
 In this lab, you learned about adding a deployment slot to an Azure Website for deploying new features or enhancements to the website, as well as adding routing rules to direct traffic to the test site with PowerShell.  This lab provided the foundation for which you could run an experiment using Microsoft Application Insights User telemetry metrics capabilities.
 
-Try these labs out for next steps:
+完成持续集成之后，可以试试下一个练习了：
 
 - Application Performance Monitoring hands-on lab
 - Load Tests and Auto-Scaling hands-on lab

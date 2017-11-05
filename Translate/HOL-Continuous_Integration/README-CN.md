@@ -176,40 +176,37 @@ Congratulations, your code should now be in VSTS!
 
 ![](<media/CI14.png>)
 
-## III. 第三部分 测试CI 在TFS/VSTS中 被触发
+## III. 第三部分 验证CI 在TFS/VSTS中 被触发
 
-We will now test the **Continuous Integration build (CI)** build we created by changing code in the Parts Unlimited project with Visual Studio Team Services.
+我们在这部分验证前面创建的构建，当我们修改Parts Unlimited 项目的代码并提交到TFS/VSTS后，会触发TFS/VSTS的持续集成.
 
-## 1.** Select the **Code** hub and then select your your repo, **HOL**.
+## 1.选择 **Code**一项，进入前面创建的仓库： **HOL**.
 
-## 2. Navigate to **/src/PartsUnlimitedWebsite/Controllers** in the PartsUnlimited project, then click on the ellipsis to the right of **HomeController.cs** and click **Edit**.
+## 2. 在PartsUnlimited项目中找到源代码文件： **/src/PartsUnlimitedWebsite/Controllers** ，选择文件： **HomeController.cs** 进入编辑状态.
 
 ![](<media/CI15.png>)
 
-## 2. After clicking **Edit**, add in text (i.e. *This is a test of CI*) after the last *Using* statement. Once complete, click **Save**.
+## 2. 点击编辑按扭 **Edit** 后, 添加注释代码 (比如 *This is a test of CI*) 在最后一行 *Using* 代码块. 完成后，点击保存按扭过： **Save**.
 
 ![](<media/CI16.png>)
 
-## 3. Click **Build** hub. This should have triggered the build we previously created.
+## 3. 点击 **Build** ，进入构建定义页面. 这将会触发我们前面定义的的构建
 
 ![](<media/CI17.png>)
 
-## 4. Click on the **Build Number**, and you should get the build in progress. Here you can also see the commands being logged to console and the current steps that the build is on.
+## 4. 点击刚触发的构建编号 **Build Number**, 你会发现构建正进行中. 通过日志页面，可以看到当前执行的命令和当前的构建步骤
 ![](<media/CI17.1.png>)
 
-## 4. Click on the **Build Number** on the top left and you should get a build summary similar to this, which includes test results.
+## 4. 点击左上角的构建编号 **Build Number** ,可以看到构建的汇总信息，当然也包括测试结果。
 
 ![](<media/CI18.png>)
 
-Next steps
+下一步
 ----------
 
-In this lab, you learned how to push new code to Visual Studio Team Services, setup a Git repo and create a Continuous
-Integration build that runs when new commits are pushed to the master branch.
-This allows you to get feedback as to whether your changes made breaking syntax
-changes, or if they broke one or more automated tests, or if your changes are a
-okay.
+在这些练习中，你学习如何推送代码到TFS/VSTS、设置Git 仓库、定义构建、通过提交和推送代码触发持续集成。
+这样使得我们能迅速获取反馈，了解现有的提交是否正确生成，自动化测试是否通过，是否破坏了原有代码
 
-Try these labs out for next steps:
+完成持续集成之后，可以试试下一个练习了：
 
 -[Continuous Deployment Lab](../HOL-Continuous_Deployment/README.md)
